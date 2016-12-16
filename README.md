@@ -64,6 +64,7 @@ Every resource method returns a promise, so you don't have to use the regular ca
  * subscription
   * [`renew(params)`](https://advisantgroup.github.io/InstantMerchant/#create-customer)
   * [`updateCard(params)`](https://advisantgroup.github.io/InstantMerchant/#create-customer)
+  * [`cancel(params)`](https://advisantgroup.github.io/InstantMerchant/#create-customer)
  * card
   * [`add(params)`](https://advisantgroup.github.io/InstantMerchant/#create-customer)
   * [`get(params)`](https://advisantgroup.github.io/InstantMerchant/#create-customer)
