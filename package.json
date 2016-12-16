@@ -1,0 +1,27 @@
+{
+  "name": "instantmerchant-node",
+  "version": "1.0.0",
+  "description": "Instant Merchant API wrapper",
+  "keywords": [
+    "instant merchant",
+    "im",
+    "payment processing",
+    "credit cards",
+    "api"
+  ],
+  "homepage": "https://github.com/advisantgroup/instantmerchant-node",
+  "author": "Advisant Inc",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/advisantgroup/instantmerchant-node.git"
+  },
+  "bugs:": "https://github.com/advisantgroup/instantmerchant-node/issues",
+  "engines": {
+    "node": ">= v0.10.0"
+  },
+  "main": "lib/index.js",
+  "dependencies": {
+    "request": "^2.67.0"
+  },
+  "license": "MIT"
+}
