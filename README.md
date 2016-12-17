@@ -17,8 +17,8 @@ A Node.JS reference implementation of the Instant Merchant API. See the full doc
 ```js
 var Imn = require('instantmerchant-node'),
   	instant = new Imn({
-		key : "your IM API key",
-		secret : "your secret key"
+		key : "your API key",
+		secret : "your API secret"
 	});
 ```
 
@@ -33,7 +33,7 @@ Every resource method returns a promise, so you don't have to use the regular ca
 	    email: 'email',
 	    address: 'address',
 	    city: 'city',
-	    zip: zip code,
+	    zip: 1234,
 	    state: 'state',
 	    country: 'US' //us, usa, US, USA
 	};
