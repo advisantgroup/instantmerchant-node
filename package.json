@@ -1,0 +1,95 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "instantmerchant-node",
+        "scope": null,
+        "escapedName": "instantmerchant-node",
+        "name": "instantmerchant-node",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/advisant_ananth/Documents/workspace/Test"
+    ]
+  ],
+  "_from": "instantmerchant-node@latest",
+  "_id": "instantmerchant-node@1.0.0",
+  "_inCache": true,
+  "_location": "/instantmerchant-node",
+  "_nodeVersion": "6.9.1",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/instantmerchant-node-1.0.0.tgz_1481899975448_0.9419390105176717"
+  },
+  "_npmUser": {
+    "name": "advisantgroup",
+    "email": "raja.king@advisantgroup.com"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "instantmerchant-node",
+    "scope": null,
+    "escapedName": "instantmerchant-node",
+    "name": "instantmerchant-node",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/instantmerchant-node/-/instantmerchant-node-1.0.0.tgz",
+  "_shasum": "575aa57a711921a4fb94e8dcb412d54af24bf5ab",
+  "_shrinkwrap": null,
+  "_spec": "instantmerchant-node",
+  "_where": "/home/advisant_ananth/Documents/workspace/Test",
+  "author": {
+    "name": "Advisant Inc"
+  },
+  "bugs": {
+    "url": "https://github.com/advisantgroup/instantmerchant-node/issues"
+  },
+  "bugs:": "https://github.com/advisantgroup/instantmerchant-node/issues",
+  "dependencies": {
+    "request": "^2.67.0"
+  },
+  "description": "Instant Merchant API wrapper",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "575aa57a711921a4fb94e8dcb412d54af24bf5ab",
+    "tarball": "https://registry.npmjs.org/instantmerchant-node/-/instantmerchant-node-1.0.0.tgz"
+  },
+  "engines": {
+    "node": ">= v0.10.0"
+  },
+  "gitHead": "94d5adb72af722b4e8d5625568a29669b6a1d622",
+  "homepage": "https://github.com/advisantgroup/instantmerchant-node",
+  "keywords": [
+    "instant merchant",
+    "im",
+    "payment processing",
+    "credit cards",
+    "api"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "maintainers": [
+    {
+      "name": "advisantgroup",
+      "email": "raja.king@advisantgroup.com"
+    }
+  ],
+  "name": "instantmerchant-node",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/advisantgroup/instantmerchant-node.git"
+  },
+  "scripts": {},
+  "version": "1.1.0"
+}
